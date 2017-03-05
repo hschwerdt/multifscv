@@ -1,0 +1,13 @@
+Gerber files description:
+gtl = top metal layer 
+gbl = bottom metal layer
+gto = top overlay silkscreen
+gtp = top solder paste
+gbp = bottom solder paste
+gts = top solder mask
+gbs = bottom solder mask
+gbo = bottom overlay silkscreen
+gko = keep out layer
+gm1 = individual board outlines
+g1 = score lines
+g2 = routing lines (overall board outline)

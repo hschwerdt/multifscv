@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: fscv8ch.PCBDOC   3/5/2017  3:58:45 PM
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        6mil (0.1524mm)          12               5.24 Inch (133.13 mm)
+T2        8mil (0.2032mm)          38               9.22 Inch (234.14 mm)
+T3        19.68mil (0.49987mm)     8                5.58 Inch (141.78 mm)
+T4        30mil (0.762mm)          2                5.08 Inch (128.99 mm)
+---------------------------------------------------------------------------
+Totals                             60               25.12 Inch (638.03 mm)
+
+Total Processing Time : 12:00:09 AM
